@@ -18,7 +18,7 @@ class App
         
          this. stoel = "wielen"
          this. wessel = "ja"
-         this. robin = "broodjekaas"
+         this. robin = "4"
      }
 }
 

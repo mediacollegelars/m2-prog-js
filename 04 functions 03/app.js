@@ -3,9 +3,9 @@ function heeftEenResultaat() {
    return resultaat;
 }
 
-let hetResultaat = heeftEenResultaat();//opvangen
-console.log(hetResultaat);// en gebruiken via de vriabel
-console.log(heeftEenResultaat);//direct gebruiken
+let hetResultaat = heeftEenResultaat();//hoi
+console.log(hetResultaat);
+console.log(heeftEenResultaat);
 
 
 
